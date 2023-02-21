@@ -1,6 +1,6 @@
 # animated_login_screen
 
-A new Flutter project.
+Animated Login Screen using rive package
 
 ## Getting Started
 
