@@ -2,7 +2,7 @@
 
 Animated Login Screen using rive package
 
--[Character](https://rive.app/community/3645-7621-remix-of-login-machine/)
+- [Character](https://rive.app/community/3645-7621-remix-of-login-machine/)
 
 ## Getting Started
 
