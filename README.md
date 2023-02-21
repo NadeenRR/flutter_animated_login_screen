@@ -4,6 +4,12 @@ Animated Login Screen using rive package
 
 - [The character](https://rive.app/community/3645-7621-remix-of-login-machine/) used in project
 
+
+
+https://user-images.githubusercontent.com/65049320/220368361-f4f6096a-4d13-47d7-bd92-c745da4f4b3c.mp4
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
